@@ -1,0 +1,24 @@
+.main__footer{
+    background-color: var(--cor-branca-caixa);
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+
+    text-align: center;
+    font-size: 1rem;
+    font-weight: 500;
+}
+
+.texto-footer{
+    padding: 6px 0;
+    font-variant-numeric: lining-nums;
+}
+
+.texto-footer span{
+    text-decoration: underline;
+    text-underline-offset: 2px;
+}
+
+.year-footer{
+    font-size: 1rem;
+    font-variant-numeric: lining-nums;
+}
